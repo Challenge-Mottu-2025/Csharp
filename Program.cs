@@ -28,11 +28,15 @@ builder.Services.AddScoped<IMotoService, MotoService>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment())
+if (app.Environment.IsDevelopment() || app.Environment.IsProduction())
 {
     app.UseSwagger();
-    app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "Challenge .NET API v1"));
+    app.UseSwaggerUI(c =>
+    {
+        c.SwaggerEndpoint("/swagger/v1/swagger.json", "Challenge .NET API v1");
+    });
 }
+
 
 // app.UseHttpsRedirection();
 app.UseAuthorization();
