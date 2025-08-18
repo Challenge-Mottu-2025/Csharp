@@ -38,7 +38,6 @@ if (app.Environment.IsDevelopment() || app.Environment.IsProduction())
 }
 
 
-// app.UseHttpsRedirection();
 app.UseAuthorization();
 app.MapControllers();
-app.Run();
+await app.RunAsync();
