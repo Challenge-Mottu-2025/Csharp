@@ -2,7 +2,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Design;
 using Infrastructure.Persistence;
 
-namespace Infrastructure.Factories
+namespace Infrastructure.Persistence
 {
     public class AppDbContextFactory : IDesignTimeDbContextFactory<AppDbContext>
     {

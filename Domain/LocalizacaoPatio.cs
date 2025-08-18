@@ -1,5 +1,7 @@
 using challenge_dotnet.Domain.MotoRepository;
 
+namespace challenge_dotnet.Domain
+
 public class LocalizacaoPatio
 {
     public Guid Id { get; set; }
