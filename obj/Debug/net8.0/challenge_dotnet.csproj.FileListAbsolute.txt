@@ -252,3 +252,14 @@
 /home/kay/Downloads/challenge_dotnet_final_warnings_fixed/challenge_dotnet_final/challenge_dotnet/obj/Debug/net8.0/challenge_dotnet.pdb
 /home/kay/Downloads/challenge_dotnet_final_warnings_fixed/challenge_dotnet_final/challenge_dotnet/obj/Debug/net8.0/challenge_dotnet.genruntimeconfig.cache
 /home/kay/Downloads/challenge_dotnet_final_warnings_fixed/challenge_dotnet_final/challenge_dotnet/obj/Debug/net8.0/ref/challenge_dotnet.dll
+C:\Users\labsfiap\Downloads\Csharp\obj\Debug\net8.0\challenge_dotnet.csproj.AssemblyReference.cache
+C:\Users\labsfiap\Downloads\Csharp\obj\Debug\net8.0\challenge_dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labsfiap\Downloads\Csharp\obj\Debug\net8.0\challenge_dotnet.AssemblyInfoInputs.cache
+C:\Users\labsfiap\Downloads\Csharp\obj\Debug\net8.0\challenge_dotnet.AssemblyInfo.cs
+C:\Users\labsfiap\Downloads\Csharp\obj\Debug\net8.0\challenge_dotnet.csproj.CoreCompileInputs.cache
+C:\Users\labsfiap\Downloads\Csharp\obj\Debug\net8.0\challenge_dotnet.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\labsfiap\Downloads\Csharp\obj\Debug\net8.0\challenge_dotnet.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\labsfiap\Downloads\Csharp\obj\Debug\net8.0\challenge_dotnet.sourcelink.json
+C:\Users\labsfiap\Downloads\Csharp\obj\Debug\net8.0\challenge_dotnet.dll
+C:\Users\labsfiap\Downloads\Csharp\obj\Debug\net8.0\refint\challenge_dotnet.dll
+C:\Users\labsfiap\Downloads\Csharp\obj\Debug\net8.0\challenge_dotnet.pdb
