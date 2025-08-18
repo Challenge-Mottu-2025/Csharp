@@ -1,3 +1,4 @@
+using challenge_dotnet.Domain;
 using Infrastructure.Persistence;
 using Microsoft.EntityFrameworkCore;
 

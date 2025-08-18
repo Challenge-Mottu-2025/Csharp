@@ -1,3 +1,5 @@
+using System.ComponentModel.DataAnnotations;
+
 namespace challenge_dotnet.Aplication.DTOs;
 
 public class UpdateMotoDto

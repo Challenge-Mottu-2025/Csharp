@@ -1,4 +1,5 @@
 using Microsoft.EntityFrameworkCore;
+using challenge_dotnet.Domain;
 using challenge_dotnet.Domain.MotoRepository;
 
 namespace Infrastructure.Persistence
