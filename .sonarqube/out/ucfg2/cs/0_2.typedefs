@@ -1,24 +1,4 @@
-õ
-challenge_dotnet.Domain.Filialobject3
-Filial()'challenge_dotnet.Domain.Filial.Filial()/
-Id.get%challenge_dotnet.Domain.Filial.Id.get/
-Id.set%challenge_dotnet.Domain.Filial.Id.set3
-Nome.get'challenge_dotnet.Domain.Filial.Nome.get3
-Nome.set'challenge_dotnet.Domain.Filial.Nome.set;
-Endereco.get+challenge_dotnet.Domain.Filial.Endereco.get;
-Endereco.set+challenge_dotnet.Domain.Filial.Endereco.setC
-TamanhoPatio.get/challenge_dotnet.Domain.Filial.TamanhoPatio.getC
-TamanhoPatio.set/challenge_dotnet.Domain.Filial.TamanhoPatio.set5
-	Motos.get(challenge_dotnet.Domain.Filial.Motos.get5
-	Motos.set(challenge_dotnet.Domain.Filial.Motos.setÌ
-0challenge_dotnet.Aplication.DTOs.CreateFilialDtoobjectW
-CreateFilialDto()Bchallenge_dotnet.Aplication.DTOs.CreateFilialDto.CreateFilialDto()E
-Nome.get9challenge_dotnet.Aplication.DTOs.CreateFilialDto.Nome.getE
-Nome.set9challenge_dotnet.Aplication.DTOs.CreateFilialDto.Nome.setM
-Endereco.get=challenge_dotnet.Aplication.DTOs.CreateFilialDto.Endereco.getM
-Endereco.set=challenge_dotnet.Aplication.DTOs.CreateFilialDto.Endereco.setU
-TamanhoPatio.getAchallenge_dotnet.Aplication.DTOs.CreateFilialDto.TamanhoPatio.getU
-TamanhoPatio.setAchallenge_dotnet.Aplication.DTOs.CreateFilialDto.TamanhoPatio.set’
+’
 :challenge_dotnet.Aplication.DTOs.CreateLocalizacaoPatioDtoobjectu
 CreateLocalizacaoPatioDto()Vchallenge_dotnet.Aplication.DTOs.CreateLocalizacaoPatioDto.CreateLocalizacaoPatioDto()W
 PosicaoX.getGchallenge_dotnet.Aplication.DTOs.CreateLocalizacaoPatioDto.PosicaoX.getW
@@ -26,19 +6,15 @@
 PosicaoY.getGchallenge_dotnet.Aplication.DTOs.CreateLocalizacaoPatioDto.PosicaoY.getW
 PosicaoY.setGchallenge_dotnet.Aplication.DTOs.CreateLocalizacaoPatioDto.PosicaoY.setY
 Descricao.getHchallenge_dotnet.Aplication.DTOs.CreateLocalizacaoPatioDto.Descricao.getY
-Descricao.setHchallenge_dotnet.Aplication.DTOs.CreateLocalizacaoPatioDto.Descricao.set´
-(challenge_dotnet.Domain.LocalizacaoPatioobjectQ
-LocalizacaoPatio();challenge_dotnet.Domain.LocalizacaoPatio.LocalizacaoPatio()9
-Id.get/challenge_dotnet.Domain.LocalizacaoPatio.Id.get9
-Id.set/challenge_dotnet.Domain.LocalizacaoPatio.Id.setE
-PosicaoX.get5challenge_dotnet.Domain.LocalizacaoPatio.PosicaoX.getE
-PosicaoX.set5challenge_dotnet.Domain.LocalizacaoPatio.PosicaoX.setE
-PosicaoY.get5challenge_dotnet.Domain.LocalizacaoPatio.PosicaoY.getE
-PosicaoY.set5challenge_dotnet.Domain.LocalizacaoPatio.PosicaoY.setG
-Descricao.get6challenge_dotnet.Domain.LocalizacaoPatio.Descricao.getG
-Descricao.set6challenge_dotnet.Domain.LocalizacaoPatio.Descricao.set?
-	Motos.get2challenge_dotnet.Domain.LocalizacaoPatio.Motos.get?
-	Motos.set2challenge_dotnet.Domain.LocalizacaoPatio.Motos.setá
+Descricao.setHchallenge_dotnet.Aplication.DTOs.CreateLocalizacaoPatioDto.Descricao.setÌ
+0challenge_dotnet.Aplication.DTOs.CreateFilialDtoobjectW
+CreateFilialDto()Bchallenge_dotnet.Aplication.DTOs.CreateFilialDto.CreateFilialDto()E
+Nome.get9challenge_dotnet.Aplication.DTOs.CreateFilialDto.Nome.getE
+Nome.set9challenge_dotnet.Aplication.DTOs.CreateFilialDto.Nome.setM
+Endereco.get=challenge_dotnet.Aplication.DTOs.CreateFilialDto.Endereco.getM
+Endereco.set=challenge_dotnet.Aplication.DTOs.CreateFilialDto.Endereco.setU
+TamanhoPatio.getAchallenge_dotnet.Aplication.DTOs.CreateFilialDto.TamanhoPatio.getU
+TamanhoPatio.setAchallenge_dotnet.Aplication.DTOs.CreateFilialDto.TamanhoPatio.setá
 .challenge_dotnet.Aplication.DTOs.CreateMotoDtoobjectQ
 CreateMotoDto()>challenge_dotnet.Aplication.DTOs.CreateMotoDto.CreateMotoDto()G
 
@@ -50,7 +26,93 @@ Modelo.set9challenge_dotnet.Aplication.DTOs.CreateMotoDto.Modelo.setE
 FilialId.get;challenge_dotnet.Aplication.DTOs.CreateMotoDto.FilialId.getK
 FilialId.set;challenge_dotnet.Aplication.DTOs.CreateMotoDto.FilialId.set_
 LocalizacaoPatioId.getEchallenge_dotnet.Aplication.DTOs.CreateMotoDto.LocalizacaoPatioId.get_
-LocalizacaoPatioId.setEchallenge_dotnet.Aplication.DTOs.CreateMotoDto.LocalizacaoPatioId.setü
+LocalizacaoPatioId.setEchallenge_dotnet.Aplication.DTOs.CreateMotoDto.LocalizacaoPatioId.set´
+*challenge_dotnet.Aplication.DTOs.FilialDtoobjectE
+FilialDto()6challenge_dotnet.Aplication.DTOs.FilialDto.FilialDto();
+Id.get1challenge_dotnet.Aplication.DTOs.FilialDto.Id.get;
+Id.set1challenge_dotnet.Aplication.DTOs.FilialDto.Id.set?
+Nome.get3challenge_dotnet.Aplication.DTOs.FilialDto.Nome.get?
+Nome.set3challenge_dotnet.Aplication.DTOs.FilialDto.Nome.setG
+Endereco.get7challenge_dotnet.Aplication.DTOs.FilialDto.Endereco.getG
+Endereco.set7challenge_dotnet.Aplication.DTOs.FilialDto.Endereco.setO
+TamanhoPatio.get;challenge_dotnet.Aplication.DTOs.FilialDto.TamanhoPatio.getO
+TamanhoPatio.set;challenge_dotnet.Aplication.DTOs.FilialDto.TamanhoPatio.setß
+4challenge_dotnet.Aplication.DTOs.LocalizacaoPatioDtoobjectc
+LocalizacaoPatioDto()Jchallenge_dotnet.Aplication.DTOs.LocalizacaoPatioDto.LocalizacaoPatioDto()E
+Id.get;challenge_dotnet.Aplication.DTOs.LocalizacaoPatioDto.Id.getE
+Id.set;challenge_dotnet.Aplication.DTOs.LocalizacaoPatioDto.Id.setQ
+PosicaoX.getAchallenge_dotnet.Aplication.DTOs.LocalizacaoPatioDto.PosicaoX.getQ
+PosicaoX.setAchallenge_dotnet.Aplication.DTOs.LocalizacaoPatioDto.PosicaoX.setQ
+PosicaoY.getAchallenge_dotnet.Aplication.DTOs.LocalizacaoPatioDto.PosicaoY.getQ
+PosicaoY.setAchallenge_dotnet.Aplication.DTOs.LocalizacaoPatioDto.PosicaoY.setS
+Descricao.getBchallenge_dotnet.Aplication.DTOs.LocalizacaoPatioDto.Descricao.getS
+Descricao.setBchallenge_dotnet.Aplication.DTOs.LocalizacaoPatioDto.Descricao.setõ
+challenge_dotnet.Domain.Filialobject3
+Filial()'challenge_dotnet.Domain.Filial.Filial()/
+Id.get%challenge_dotnet.Domain.Filial.Id.get/
+Id.set%challenge_dotnet.Domain.Filial.Id.set3
+Nome.get'challenge_dotnet.Domain.Filial.Nome.get3
+Nome.set'challenge_dotnet.Domain.Filial.Nome.set;
+Endereco.get+challenge_dotnet.Domain.Filial.Endereco.get;
+Endereco.set+challenge_dotnet.Domain.Filial.Endereco.setC
+TamanhoPatio.get/challenge_dotnet.Domain.Filial.TamanhoPatio.getC
+TamanhoPatio.set/challenge_dotnet.Domain.Filial.TamanhoPatio.set5
+	Motos.get(challenge_dotnet.Domain.Filial.Motos.get5
+	Motos.set(challenge_dotnet.Domain.Filial.Motos.setµ
+(challenge_dotnet.Aplication.DTOs.MotoDtoobject?
+	MotoDto()2challenge_dotnet.Aplication.DTOs.MotoDto.MotoDto()9
+Id.get/challenge_dotnet.Aplication.DTOs.MotoDto.Id.get9
+Id.set/challenge_dotnet.Aplication.DTOs.MotoDto.Id.setA
+
+Modelo.get3challenge_dotnet.Aplication.DTOs.MotoDto.Modelo.getA
+
+Modelo.set3challenge_dotnet.Aplication.DTOs.MotoDto.Modelo.set?
+	Placa.get2challenge_dotnet.Aplication.DTOs.MotoDto.Placa.get?
+	Placa.set2challenge_dotnet.Aplication.DTOs.MotoDto.Placa.setE
+FilialId.get5challenge_dotnet.Aplication.DTOs.MotoDto.FilialId.getE
+FilialId.set5challenge_dotnet.Aplication.DTOs.MotoDto.FilialId.setY
+LocalizacaoPatioId.get?challenge_dotnet.Aplication.DTOs.MotoDto.LocalizacaoPatioId.getY
+LocalizacaoPatioId.set?challenge_dotnet.Aplication.DTOs.MotoDto.LocalizacaoPatioId.setÌ
+0challenge_dotnet.Aplication.DTOs.UpdateFilialDtoobjectW
+UpdateFilialDto()Bchallenge_dotnet.Aplication.DTOs.UpdateFilialDto.UpdateFilialDto()E
+Nome.get9challenge_dotnet.Aplication.DTOs.UpdateFilialDto.Nome.getE
+Nome.set9challenge_dotnet.Aplication.DTOs.UpdateFilialDto.Nome.setM
+Endereco.get=challenge_dotnet.Aplication.DTOs.UpdateFilialDto.Endereco.getM
+Endereco.set=challenge_dotnet.Aplication.DTOs.UpdateFilialDto.Endereco.setU
+TamanhoPatio.getAchallenge_dotnet.Aplication.DTOs.UpdateFilialDto.TamanhoPatio.getU
+TamanhoPatio.setAchallenge_dotnet.Aplication.DTOs.UpdateFilialDto.TamanhoPatio.set´
+(challenge_dotnet.Domain.LocalizacaoPatioobjectQ
+LocalizacaoPatio();challenge_dotnet.Domain.LocalizacaoPatio.LocalizacaoPatio()9
+Id.get/challenge_dotnet.Domain.LocalizacaoPatio.Id.get9
+Id.set/challenge_dotnet.Domain.LocalizacaoPatio.Id.setE
+PosicaoX.get5challenge_dotnet.Domain.LocalizacaoPatio.PosicaoX.getE
+PosicaoX.set5challenge_dotnet.Domain.LocalizacaoPatio.PosicaoX.setE
+PosicaoY.get5challenge_dotnet.Domain.LocalizacaoPatio.PosicaoY.getE
+PosicaoY.set5challenge_dotnet.Domain.LocalizacaoPatio.PosicaoY.setG
+Descricao.get6challenge_dotnet.Domain.LocalizacaoPatio.Descricao.getG
+Descricao.set6challenge_dotnet.Domain.LocalizacaoPatio.Descricao.set?
+	Motos.get2challenge_dotnet.Domain.LocalizacaoPatio.Motos.get?
+	Motos.set2challenge_dotnet.Domain.LocalizacaoPatio.Motos.set’
+:challenge_dotnet.Aplication.DTOs.UpdateLocalizacaoPatioDtoobjectu
+UpdateLocalizacaoPatioDto()Vchallenge_dotnet.Aplication.DTOs.UpdateLocalizacaoPatioDto.UpdateLocalizacaoPatioDto()W
+PosicaoX.getGchallenge_dotnet.Aplication.DTOs.UpdateLocalizacaoPatioDto.PosicaoX.getW
+PosicaoX.setGchallenge_dotnet.Aplication.DTOs.UpdateLocalizacaoPatioDto.PosicaoX.setW
+PosicaoY.getGchallenge_dotnet.Aplication.DTOs.UpdateLocalizacaoPatioDto.PosicaoY.getW
+PosicaoY.setGchallenge_dotnet.Aplication.DTOs.UpdateLocalizacaoPatioDto.PosicaoY.setY
+Descricao.getHchallenge_dotnet.Aplication.DTOs.UpdateLocalizacaoPatioDto.Descricao.getY
+Descricao.setHchallenge_dotnet.Aplication.DTOs.UpdateLocalizacaoPatioDto.Descricao.setá
+.challenge_dotnet.Aplication.DTOs.UpdateMotoDtoobjectQ
+UpdateMotoDto()>challenge_dotnet.Aplication.DTOs.UpdateMotoDto.UpdateMotoDto()G
+
+Modelo.get9challenge_dotnet.Aplication.DTOs.UpdateMotoDto.Modelo.getG
+
+Modelo.set9challenge_dotnet.Aplication.DTOs.UpdateMotoDto.Modelo.setE
+	Placa.get8challenge_dotnet.Aplication.DTOs.UpdateMotoDto.Placa.getE
+	Placa.set8challenge_dotnet.Aplication.DTOs.UpdateMotoDto.Placa.setK
+FilialId.get;challenge_dotnet.Aplication.DTOs.UpdateMotoDto.FilialId.getK
+FilialId.set;challenge_dotnet.Aplication.DTOs.UpdateMotoDto.FilialId.set_
+LocalizacaoPatioId.getEchallenge_dotnet.Aplication.DTOs.UpdateMotoDto.LocalizacaoPatioId.get_
+LocalizacaoPatioId.setEchallenge_dotnet.Aplication.DTOs.UpdateMotoDto.LocalizacaoPatioId.setü
 
 +challenge_dotnet.Domain.MotoRepository.Motoobject<
 Moto()2challenge_dotnet.Domain.MotoRepository.Moto.Moto()<
@@ -75,71 +137,24 @@ Filial.get6challenge_dotnet.Domain.MotoRepository.Moto.Filial.getD
 
 Filial.set6challenge_dotnet.Domain.MotoRepository.Moto.Filial.setX
 LocalizacaoAtual.get@challenge_dotnet.Domain.MotoRepository.Moto.LocalizacaoAtual.getX
-LocalizacaoAtual.set@challenge_dotnet.Domain.MotoRepository.Moto.LocalizacaoAtual.set´
-*challenge_dotnet.Aplication.DTOs.FilialDtoobjectE
-FilialDto()6challenge_dotnet.Aplication.DTOs.FilialDto.FilialDto();
-Id.get1challenge_dotnet.Aplication.DTOs.FilialDto.Id.get;
-Id.set1challenge_dotnet.Aplication.DTOs.FilialDto.Id.set?
-Nome.get3challenge_dotnet.Aplication.DTOs.FilialDto.Nome.get?
-Nome.set3challenge_dotnet.Aplication.DTOs.FilialDto.Nome.setG
-Endereco.get7challenge_dotnet.Aplication.DTOs.FilialDto.Endereco.getG
-Endereco.set7challenge_dotnet.Aplication.DTOs.FilialDto.Endereco.setO
-TamanhoPatio.get;challenge_dotnet.Aplication.DTOs.FilialDto.TamanhoPatio.getO
-TamanhoPatio.set;challenge_dotnet.Aplication.DTOs.FilialDto.TamanhoPatio.setß
-4challenge_dotnet.Aplication.DTOs.LocalizacaoPatioDtoobjectc
-LocalizacaoPatioDto()Jchallenge_dotnet.Aplication.DTOs.LocalizacaoPatioDto.LocalizacaoPatioDto()E
-Id.get;challenge_dotnet.Aplication.DTOs.LocalizacaoPatioDto.Id.getE
-Id.set;challenge_dotnet.Aplication.DTOs.LocalizacaoPatioDto.Id.setQ
-PosicaoX.getAchallenge_dotnet.Aplication.DTOs.LocalizacaoPatioDto.PosicaoX.getQ
-PosicaoX.setAchallenge_dotnet.Aplication.DTOs.LocalizacaoPatioDto.PosicaoX.setQ
-PosicaoY.getAchallenge_dotnet.Aplication.DTOs.LocalizacaoPatioDto.PosicaoY.getQ
-PosicaoY.setAchallenge_dotnet.Aplication.DTOs.LocalizacaoPatioDto.PosicaoY.setS
-Descricao.getBchallenge_dotnet.Aplication.DTOs.LocalizacaoPatioDto.Descricao.getS
-Descricao.setBchallenge_dotnet.Aplication.DTOs.LocalizacaoPatioDto.Descricao.set6
-4challenge_dotnet.Domain.Repositories.IMotoRepositoryµ
-(challenge_dotnet.Aplication.DTOs.MotoDtoobject?
-	MotoDto()2challenge_dotnet.Aplication.DTOs.MotoDto.MotoDto()9
-Id.get/challenge_dotnet.Aplication.DTOs.MotoDto.Id.get9
-Id.set/challenge_dotnet.Aplication.DTOs.MotoDto.Id.setA
-
-Modelo.get3challenge_dotnet.Aplication.DTOs.MotoDto.Modelo.getA
-
-Modelo.set3challenge_dotnet.Aplication.DTOs.MotoDto.Modelo.set?
-	Placa.get2challenge_dotnet.Aplication.DTOs.MotoDto.Placa.get?
-	Placa.set2challenge_dotnet.Aplication.DTOs.MotoDto.Placa.setE
-FilialId.get5challenge_dotnet.Aplication.DTOs.MotoDto.FilialId.getE
-FilialId.set5challenge_dotnet.Aplication.DTOs.MotoDto.FilialId.setY
-LocalizacaoPatioId.get?challenge_dotnet.Aplication.DTOs.MotoDto.LocalizacaoPatioId.getY
-LocalizacaoPatioId.set?challenge_dotnet.Aplication.DTOs.MotoDto.LocalizacaoPatioId.set7
-5challenge_dotnet.Aplication.Interfaces.IFilialServiceÌ
-0challenge_dotnet.Aplication.DTOs.UpdateFilialDtoobjectW
-UpdateFilialDto()Bchallenge_dotnet.Aplication.DTOs.UpdateFilialDto.UpdateFilialDto()E
-Nome.get9challenge_dotnet.Aplication.DTOs.UpdateFilialDto.Nome.getE
-Nome.set9challenge_dotnet.Aplication.DTOs.UpdateFilialDto.Nome.setM
-Endereco.get=challenge_dotnet.Aplication.DTOs.UpdateFilialDto.Endereco.getM
-Endereco.set=challenge_dotnet.Aplication.DTOs.UpdateFilialDto.Endereco.setU
-TamanhoPatio.getAchallenge_dotnet.Aplication.DTOs.UpdateFilialDto.TamanhoPatio.getU
-TamanhoPatio.setAchallenge_dotnet.Aplication.DTOs.UpdateFilialDto.TamanhoPatio.set’
-:challenge_dotnet.Aplication.DTOs.UpdateLocalizacaoPatioDtoobjectu
-UpdateLocalizacaoPatioDto()Vchallenge_dotnet.Aplication.DTOs.UpdateLocalizacaoPatioDto.UpdateLocalizacaoPatioDto()W
-PosicaoX.getGchallenge_dotnet.Aplication.DTOs.UpdateLocalizacaoPatioDto.PosicaoX.getW
-PosicaoX.setGchallenge_dotnet.Aplication.DTOs.UpdateLocalizacaoPatioDto.PosicaoX.setW
-PosicaoY.getGchallenge_dotnet.Aplication.DTOs.UpdateLocalizacaoPatioDto.PosicaoY.getW
-PosicaoY.setGchallenge_dotnet.Aplication.DTOs.UpdateLocalizacaoPatioDto.PosicaoY.setY
-Descricao.getHchallenge_dotnet.Aplication.DTOs.UpdateLocalizacaoPatioDto.Descricao.getY
-Descricao.setHchallenge_dotnet.Aplication.DTOs.UpdateLocalizacaoPatioDto.Descricao.setá
-.challenge_dotnet.Aplication.DTOs.UpdateMotoDtoobjectQ
-UpdateMotoDto()>challenge_dotnet.Aplication.DTOs.UpdateMotoDto.UpdateMotoDto()G
-
-Modelo.get9challenge_dotnet.Aplication.DTOs.UpdateMotoDto.Modelo.getG
-
-Modelo.set9challenge_dotnet.Aplication.DTOs.UpdateMotoDto.Modelo.setE
-	Placa.get8challenge_dotnet.Aplication.DTOs.UpdateMotoDto.Placa.getE
-	Placa.set8challenge_dotnet.Aplication.DTOs.UpdateMotoDto.Placa.setK
-FilialId.get;challenge_dotnet.Aplication.DTOs.UpdateMotoDto.FilialId.getK
-FilialId.set;challenge_dotnet.Aplication.DTOs.UpdateMotoDto.FilialId.set_
-LocalizacaoPatioId.getEchallenge_dotnet.Aplication.DTOs.UpdateMotoDto.LocalizacaoPatioId.get_
-LocalizacaoPatioId.setEchallenge_dotnet.Aplication.DTOs.UpdateMotoDto.LocalizacaoPatioId.set·
+LocalizacaoAtual.set@challenge_dotnet.Domain.MotoRepository.Moto.LocalizacaoAtual.set6
+4challenge_dotnet.Domain.Repositories.IMotoRepository7
+5challenge_dotnet.Aplication.Interfaces.IFilialService‘
+"Application.Services.FilialServiceobject5challenge_dotnet.Aplication.Interfaces.IFilialService≈
+OFilialService(Infrastructure.Repositories.FilialRepository, AutoMapper.IMapper)rApplication.Services.FilialService.FilialService(Infrastructure.Repositories.FilialRepository, AutoMapper.IMapper)A
+GetAllAsync()0Application.Services.FilialService.GetAllAsync()I
+GetByIdAsync(int)4Application.Services.FilialService.GetByIdAsync(int)°
+=CreateAsync(challenge_dotnet.Aplication.DTOs.CreateFilialDto)`Application.Services.FilialService.CreateAsync(challenge_dotnet.Aplication.DTOs.CreateFilialDto)´
+BUpdateAsync(int, challenge_dotnet.Aplication.DTOs.UpdateFilialDto)eApplication.Services.FilialService.UpdateAsync(int, challenge_dotnet.Aplication.DTOs.UpdateFilialDto)G
+DeleteAsync(int)3Application.Services.FilialService.DeleteAsync(int)<
+:challenge_dotnet.Aplication.Interfaces.ILocalizacaoServiceπ
+'Application.Services.LocalizacaoServiceobject:challenge_dotnet.Aplication.Interfaces.ILocalizacaoServiceﬂ
+YLocalizacaoService(Infrastructure.Repositories.LocalizacaoRepository, AutoMapper.IMapper)ÅApplication.Services.LocalizacaoService.LocalizacaoService(Infrastructure.Repositories.LocalizacaoRepository, AutoMapper.IMapper)F
+GetAllAsync()5Application.Services.LocalizacaoService.GetAllAsync()N
+GetByIdAsync(int)9Application.Services.LocalizacaoService.GetByIdAsync(int)∫
+GCreateAsync(challenge_dotnet.Aplication.DTOs.CreateLocalizacaoPatioDto)oApplication.Services.LocalizacaoService.CreateAsync(challenge_dotnet.Aplication.DTOs.CreateLocalizacaoPatioDto)ƒ
+LUpdateAsync(int, challenge_dotnet.Aplication.DTOs.UpdateLocalizacaoPatioDto)tApplication.Services.LocalizacaoService.UpdateAsync(int, challenge_dotnet.Aplication.DTOs.UpdateLocalizacaoPatioDto)L
+DeleteAsync(int)8Application.Services.LocalizacaoService.DeleteAsync(int)·
 ;challenge_dotnet.Infrastructure.Repositories.MotoRepositoryobject4challenge_dotnet.Domain.Repositories.IMotoRepositoryÆ
 7MotoRepository(Infrastructure.Persistence.AppDbContext)schallenge_dotnet.Infrastructure.Repositories.MotoRepository.MotoRepository(Infrastructure.Persistence.AppDbContext)Z
 GetAllAsync()Ichallenge_dotnet.Infrastructure.Repositories.MotoRepository.GetAllAsync()b
@@ -147,44 +162,24 @@ Modelo.set9challenge_dotnet.Aplication.DTOs.UpdateMotoDto.Modelo.setE
 5AddAsync(challenge_dotnet.Domain.MotoRepository.Moto)qchallenge_dotnet.Infrastructure.Repositories.MotoRepository.AddAsync(challenge_dotnet.Domain.MotoRepository.Moto)∞
 8UpdateAsync(challenge_dotnet.Domain.MotoRepository.Moto)tchallenge_dotnet.Infrastructure.Repositories.MotoRepository.UpdateAsync(challenge_dotnet.Domain.MotoRepository.Moto)∞
 8DeleteAsync(challenge_dotnet.Domain.MotoRepository.Moto)tchallenge_dotnet.Infrastructure.Repositories.MotoRepository.DeleteAsync(challenge_dotnet.Domain.MotoRepository.Moto)`
-DeleteAsync(int)Lchallenge_dotnet.Infrastructure.Repositories.MotoRepository.DeleteAsync(int)<
-:challenge_dotnet.Aplication.Interfaces.ILocalizacaoService‘
-"Application.Services.FilialServiceobject5challenge_dotnet.Aplication.Interfaces.IFilialService≈
-OFilialService(Infrastructure.Repositories.FilialRepository, AutoMapper.IMapper)rApplication.Services.FilialService.FilialService(Infrastructure.Repositories.FilialRepository, AutoMapper.IMapper)A
-GetAllAsync()0Application.Services.FilialService.GetAllAsync()I
-GetByIdAsync(int)4Application.Services.FilialService.GetByIdAsync(int)°
-=CreateAsync(challenge_dotnet.Aplication.DTOs.CreateFilialDto)`Application.Services.FilialService.CreateAsync(challenge_dotnet.Aplication.DTOs.CreateFilialDto)´
-BUpdateAsync(int, challenge_dotnet.Aplication.DTOs.UpdateFilialDto)eApplication.Services.FilialService.UpdateAsync(int, challenge_dotnet.Aplication.DTOs.UpdateFilialDto)G
-DeleteAsync(int)3Application.Services.FilialService.DeleteAsync(int)«
+DeleteAsync(int)Lchallenge_dotnet.Infrastructure.Repositories.MotoRepository.DeleteAsync(int)ò
+*Presentation.Controllers.FiliaisController'Microsoft.AspNetCore.Mvc.ControllerBaseobjectô
+5FiliaisController(Application.Services.FilialService)`Presentation.Controllers.FiliaisController.FiliaisController(Application.Services.FilialService)?
+GetAll()3Presentation.Controllers.FiliaisController.GetAll()G
+GetById(int)7Presentation.Controllers.FiliaisController.GetById(int)ü
+8Create(challenge_dotnet.Aplication.DTOs.CreateFilialDto)cPresentation.Controllers.FiliaisController.Create(challenge_dotnet.Aplication.DTOs.CreateFilialDto)©
+=Update(int, challenge_dotnet.Aplication.DTOs.UpdateFilialDto)hPresentation.Controllers.FiliaisController.Update(int, challenge_dotnet.Aplication.DTOs.UpdateFilialDto)E
+Delete(int)6Presentation.Controllers.FiliaisController.Delete(int)5
+3challenge_dotnet.Aplication.Interfaces.IMotoService1
+Programobject
+	Program()Program.Program()«
 0challenge_dotnet.Aplication.Services.MotoServiceobject3challenge_dotnet.Aplication.Interfaces.IMotoServiceÓ
 \MotoService(challenge_dotnet.Infrastructure.Repositories.MotoRepository, AutoMapper.IMapper)çchallenge_dotnet.Aplication.Services.MotoService.MotoService(challenge_dotnet.Infrastructure.Repositories.MotoRepository, AutoMapper.IMapper)O
 GetAllAsync()>challenge_dotnet.Aplication.Services.MotoService.GetAllAsync()W
 GetByIdAsync(int)Bchallenge_dotnet.Aplication.Services.MotoService.GetByIdAsync(int)´
 ;CreateAsync(challenge_dotnet.Aplication.DTOs.CreateMotoDto)lchallenge_dotnet.Aplication.Services.MotoService.CreateAsync(challenge_dotnet.Aplication.DTOs.CreateMotoDto)µ
 @UpdateAsync(int, challenge_dotnet.Aplication.DTOs.UpdateMotoDto)qchallenge_dotnet.Aplication.Services.MotoService.UpdateAsync(int, challenge_dotnet.Aplication.DTOs.UpdateMotoDto)U
-DeleteAsync(int)Achallenge_dotnet.Aplication.Services.MotoService.DeleteAsync(int)π
-'Application.Services.LocalizacaoServiceobject:challenge_dotnet.Aplication.Interfaces.ILocalizacaoServiceﬂ
-YLocalizacaoService(Infrastructure.Repositories.LocalizacaoRepository, AutoMapper.IMapper)ÅApplication.Services.LocalizacaoService.LocalizacaoService(Infrastructure.Repositories.LocalizacaoRepository, AutoMapper.IMapper)F
-GetAllAsync()5Application.Services.LocalizacaoService.GetAllAsync()N
-GetByIdAsync(int)9Application.Services.LocalizacaoService.GetByIdAsync(int)∫
-GCreateAsync(challenge_dotnet.Aplication.DTOs.CreateLocalizacaoPatioDto)oApplication.Services.LocalizacaoService.CreateAsync(challenge_dotnet.Aplication.DTOs.CreateLocalizacaoPatioDto)ƒ
-LUpdateAsync(int, challenge_dotnet.Aplication.DTOs.UpdateLocalizacaoPatioDto)tApplication.Services.LocalizacaoService.UpdateAsync(int, challenge_dotnet.Aplication.DTOs.UpdateLocalizacaoPatioDto)L
-DeleteAsync(int)8Application.Services.LocalizacaoService.DeleteAsync(int)ù
-'Infrastructure.Persistence.AppDbContext'Microsoft.EntityFrameworkCore.DbContextobject˜
-eAppDbContext(Microsoft.EntityFrameworkCore.DbContextOptions<Infrastructure.Persistence.AppDbContext>)çInfrastructure.Persistence.AppDbContext.AppDbContext(Microsoft.EntityFrameworkCore.DbContextOptions<Infrastructure.Persistence.AppDbContext>)¢
-;OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)cInfrastructure.Persistence.AppDbContext.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)>
-	Motos.get1Infrastructure.Persistence.AppDbContext.Motos.get>
-	Motos.set1Infrastructure.Persistence.AppDbContext.Motos.setB
-Filiais.get3Infrastructure.Persistence.AppDbContext.Filiais.getB
-Filiais.set3Infrastructure.Persistence.AppDbContext.Filiais.setL
-Localizacoes.get8Infrastructure.Persistence.AppDbContext.Localizacoes.getL
-Localizacoes.set8Infrastructure.Persistence.AppDbContext.Localizacoes.set5
-3challenge_dotnet.Aplication.Interfaces.IMotoService1
-Programobject
-	Program()Program.Program() 
-.Infrastructure.Persistence.AppDbContextFactoryobjectJMicrosoft.EntityFrameworkCore.Design.IDesignTimeDbContextFactory<TContext>e
-CreateDbContext(string[])HInfrastructure.Persistence.AppDbContextFactory.CreateDbContext(string[])]
-AppDbContextFactory()DInfrastructure.Persistence.AppDbContextFactory.AppDbContextFactory()ñ
+DeleteAsync(int)Achallenge_dotnet.Aplication.Services.MotoService.DeleteAsync(int)ñ
 ,Infrastructure.Repositories.FilialRepositoryobject£
 9FilialRepository(Infrastructure.Persistence.AppDbContext)fInfrastructure.Repositories.FilialRepository.FilialRepository(Infrastructure.Persistence.AppDbContext)K
 GetAllAsync():Infrastructure.Repositories.FilialRepository.GetAllAsync()S
@@ -212,11 +207,16 @@ AMotosController(challenge_dotnet.Aplication.Services.MotoService)jPresentation
 GetById(int)5Presentation.Controllers.MotosController.GetById(int)ô
 6Create(challenge_dotnet.Aplication.DTOs.CreateMotoDto)_Presentation.Controllers.MotosController.Create(challenge_dotnet.Aplication.DTOs.CreateMotoDto)£
 ;Update(int, challenge_dotnet.Aplication.DTOs.UpdateMotoDto)dPresentation.Controllers.MotosController.Update(int, challenge_dotnet.Aplication.DTOs.UpdateMotoDto)C
-Delete(int)4Presentation.Controllers.MotosController.Delete(int)ò
-*Presentation.Controllers.FiliaisController'Microsoft.AspNetCore.Mvc.ControllerBaseobjectô
-5FiliaisController(Application.Services.FilialService)`Presentation.Controllers.FiliaisController.FiliaisController(Application.Services.FilialService)?
-GetAll()3Presentation.Controllers.FiliaisController.GetAll()G
-GetById(int)7Presentation.Controllers.FiliaisController.GetById(int)ü
-8Create(challenge_dotnet.Aplication.DTOs.CreateFilialDto)cPresentation.Controllers.FiliaisController.Create(challenge_dotnet.Aplication.DTOs.CreateFilialDto)©
-=Update(int, challenge_dotnet.Aplication.DTOs.UpdateFilialDto)hPresentation.Controllers.FiliaisController.Update(int, challenge_dotnet.Aplication.DTOs.UpdateFilialDto)E
-Delete(int)6Presentation.Controllers.FiliaisController.Delete(int)
+Delete(int)4Presentation.Controllers.MotosController.Delete(int)ù
+'Infrastructure.Persistence.AppDbContext'Microsoft.EntityFrameworkCore.DbContextobject˜
+eAppDbContext(Microsoft.EntityFrameworkCore.DbContextOptions<Infrastructure.Persistence.AppDbContext>)çInfrastructure.Persistence.AppDbContext.AppDbContext(Microsoft.EntityFrameworkCore.DbContextOptions<Infrastructure.Persistence.AppDbContext>)¢
+;OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)cInfrastructure.Persistence.AppDbContext.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)>
+	Motos.get1Infrastructure.Persistence.AppDbContext.Motos.get>
+	Motos.set1Infrastructure.Persistence.AppDbContext.Motos.setB
+Filiais.get3Infrastructure.Persistence.AppDbContext.Filiais.getB
+Filiais.set3Infrastructure.Persistence.AppDbContext.Filiais.setL
+Localizacoes.get8Infrastructure.Persistence.AppDbContext.Localizacoes.getL
+Localizacoes.set8Infrastructure.Persistence.AppDbContext.Localizacoes.set 
+.Infrastructure.Persistence.AppDbContextFactoryobjectJMicrosoft.EntityFrameworkCore.Design.IDesignTimeDbContextFactory<TContext>e
+CreateDbContext(string[])HInfrastructure.Persistence.AppDbContextFactory.CreateDbContext(string[])]
+AppDbContextFactory()DInfrastructure.Persistence.AppDbContextFactory.AppDbContextFactory()

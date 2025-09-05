@@ -14,10 +14,10 @@ S/home/alice/Backend/Csharp/Csharp/Infrastructure/Persistence/AppDbContextFactor
 L/home/alice/Backend/Csharp/Csharp/Infrastructure/Persistence/AppDbContext.csutf-8Q
 H/home/alice/Backend/Csharp/Csharp/Domain/Repositories/IMotoRepository.csutf-89
 0/home/alice/Backend/Csharp/Csharp/Domain/Moto.csutf-8E
-</home/alice/Backend/Csharp/Csharp/Domain/LocalizacaoPatio.csutf-8T
-K/home/alice/Backend/Csharp/Csharp/Aplication/Services/LocalizacaoService.csutf-8;
+</home/alice/Backend/Csharp/Csharp/Domain/LocalizacaoPatio.csutf-8;
 2/home/alice/Backend/Csharp/Csharp/Domain/Filial.csutf-8M
-D/home/alice/Backend/Csharp/Csharp/Aplication/Services/MotoService.csutf-8O
+D/home/alice/Backend/Csharp/Csharp/Aplication/Services/MotoService.csutf-8T
+K/home/alice/Backend/Csharp/Csharp/Aplication/Services/LocalizacaoService.csutf-8O
 F/home/alice/Backend/Csharp/Csharp/Aplication/Services/FilialService.csutf-8P
 G/home/alice/Backend/Csharp/Csharp/Aplication/Interfaces/IMotoService.csutf-8W
 N/home/alice/Backend/Csharp/Csharp/Aplication/Interfaces/ILocalizacaoService.csutf-8R

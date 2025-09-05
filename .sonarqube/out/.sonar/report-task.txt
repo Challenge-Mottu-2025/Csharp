@@ -3,5 +3,5 @@ projectKey=Challenge-Mottu-2025_Csharp
 serverUrl=https://sonarcloud.io
 serverVersion=8.0.0.66870
 dashboardUrl=https://sonarcloud.io/dashboard?id=Challenge-Mottu-2025_Csharp
-ceTaskId=AZkXnvVCcMJ26iGdPzse
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZkXnvVCcMJ26iGdPzse
+ceTaskId=AZkXpRXzLKMTLWSBECQx
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZkXpRXzLKMTLWSBECQx
