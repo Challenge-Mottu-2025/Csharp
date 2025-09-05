@@ -1,1 +1,11 @@
-{"Version":1,"Hash":"tc4lR/ZTx0Ka213wN8DUw4KjEZG3AnaD3C6UuhUVxS8=","Source":"challenge_dotnet","BasePath":"_content/challenge_dotnet","Mode":"Default","ManifestType":"Build","ReferencedProjectsConfiguration":[],"DiscoveryPatterns":[],"Assets":[],"Endpoints":[]}
+{
+  "Version": 1,
+  "Hash": "Jk8gLlzUY7fpu0wRjNPqoE1HdungBWyDlGZynzrXDfU=",
+  "Source": "challenge_dotnet",
+  "BasePath": "_content/challenge_dotnet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
