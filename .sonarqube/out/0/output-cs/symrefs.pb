@@ -6,31 +6,7 @@
   &
 , 3 L
   ' *!! "" )) ** ++ 	
-"" $$ 	à
-T/home/alice/Backend/Csharp/Csharp/Presentation/Controllers/LocalizacoesController.cs
-
-		 'F
-, ?  2 2##  3**  311 %
-9 K" 4
-
-) /
-  
-
-) 0
-5 7@ B
-  4 :
-
-!!) /
-!!U X##@ C
-## $$? F$$M T
-
-(() /
-((4 6**@ B
-((] `**D G
-** ++ ++5 <
-
-//) /
-//4 6112 4Ù
+"" $$ 	Ù
 M/home/alice/Backend/Csharp/Csharp/Presentation/Controllers/MotosController.cs
 
 		  F
@@ -54,31 +30,51 @@ M/home/alice/Backend/Csharp/Csharp/Presentation/Controllers/MotosController.cs
 ** ++ ++5 <
 
 //) /
-//4 611+ -Û
-O/home/alice/Backend/Csharp/Csharp/Presentation/Controllers/FiliaisController.cs
+//4 611+ -à
+T/home/alice/Backend/Csharp/Csharp/Presentation/Controllers/LocalizacoesController.cs
 
-		 "F
-' 5  - -##  .**  .11  
-/ < *
+		 'F
+, ?  2 2##  3**  311 %
+9 K" 4
 
 ) /
   
 
 ) 0
-5 7; =
+5 7@ B
   4 :
 
 !!) /
-!!K N##; >
+!!U X##@ C
 ## $$? F$$M T
 
 (() /
-((4 6**; =
-((S V**? B
+((4 6**@ B
+((] `**D G
 ** ++ ++5 <
 
 //) /
-//4 611- /…
+//4 6112 4”
+V/home/alice/Backend/Csharp/Csharp/Infrastructure/Repositories/LocalizacaoRepository.cs
+
+ &d
+		& .   '  "" ## (( )) 
+2 9 
+
+9 D
+
+, 8
+= ?? A
+   
+
+ "
+4 :& ,
+
+   %
+  7 ="") /
+
+&& %
+&&7 =(() /…
 O/home/alice/Backend/Csharp/Csharp/Infrastructure/Repositories/MotoRepository.cs
 
  d
@@ -103,7 +99,31 @@ O/home/alice/Backend/Csharp/Csharp/Infrastructure/Repositories/MotoRepository.cs
 
 -- 
 
---$ &™
+--$ &Û
+O/home/alice/Backend/Csharp/Csharp/Presentation/Controllers/FiliaisController.cs
+
+		 "F
+' 5  - -##  .**  .11  
+/ < *
+
+) /
+  
+
+) 0
+5 7; =
+  4 :
+
+!!) /
+!!K N##; >
+## $$? F$$M T
+
+(() /
+((4 6**; =
+((S V**? B
+** ++ ++5 <
+
+//) /
+//4 611- /™
 Q/home/alice/Backend/Csharp/Csharp/Infrastructure/Repositories/FilialRepository.cs
 
  !d
@@ -123,27 +143,16 @@ Q/home/alice/Backend/Csharp/Csharp/Infrastructure/Repositories/FilialRepository.
 ""- 3$$$ *
 
 (( %
-((- 3**$ *”
-V/home/alice/Backend/Csharp/Csharp/Infrastructure/Repositories/LocalizacaoRepository.cs
+((- 3**$ *¹
+S/home/alice/Backend/Csharp/Csharp/Infrastructure/Persistence/AppDbContextFactory.cs
 
- &d
-		& .   '  "" ## (( )) 
-2 9 
+ $
 
-9 D
+		 +
 
-, 8
-= ?? A
-   
-
- "
-4 :& ,
-
-   %
-  7 ="") /
-
-&& %
-&&7 =(() /Þ
+		5 9
+  $ 2
+  * :% 5Þ
 L/home/alice/Backend/Csharp/Csharp/Infrastructure/Persistence/AppDbContext.cs
  		- 9
 		; B		K R
@@ -155,37 +164,7 @@ L/home/alice/Backend/Csharp/Csharp/Infrastructure/Persistence/AppDbContext.cs
 ' 3
 
   /2
-= I! -   ž
-0/home/alice/Backend/Csharp/Csharp/Domain/Moto.cs
-
- 
-
- 
-
- 
-
- 
-
- 
-
-		 
-
-
-
- "
-
- 
-
- ,¹
-S/home/alice/Backend/Csharp/Csharp/Infrastructure/Persistence/AppDbContextFactory.cs
-
- $
-
-		 +
-
-		5 9
-  $ 2
-  * :% 5Â
+= I! -   Â
 H/home/alice/Backend/Csharp/Csharp/Domain/Repositories/IMotoRepository.cs
 
  $
@@ -240,7 +219,55 @@ H/home/alice/Backend/Csharp/Csharp/Domain/Repositories/IMotoRepository.cs
 
  "
 
-! &ö
+! &ž
+0/home/alice/Backend/Csharp/Csharp/Domain/Moto.cs
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+		 
+
+
+
+ "
+
+ 
+
+ ,ý
+K/home/alice/Backend/Csharp/Csharp/Aplication/Services/LocalizacaoService.cs
+
+		 #Z
+/ : % 0$ /## )) *-- 33 *66 P
+! (   ""  $$ ,, .. 
+8 B $
+L R 
+
+< G
+ A M
+
+/ ;
+@ B= ?
+ 4 ?
+
+  / :
+  U X""7 :
+"" ##' -$$4 :
+
+''/ :
+''? A))8 :
+''] `,, 2
+)) ** ,, #--* 0..4 :
+
+11  +
+110 2338 :
+33 44 66* 0ö
 D/home/alice/Backend/Csharp/Csharp/Aplication/Services/MotoService.cs
 
 
@@ -269,34 +296,7 @@ D/home/alice/Backend/Csharp/Csharp/Aplication/Services/MotoService.cs
 
 22  +
 220 2448 :
-44 55 77* 0ý
-K/home/alice/Backend/Csharp/Csharp/Aplication/Services/LocalizacaoService.cs
-
-		 #Z
-/ : % 0$ /## )) *-- 33 *66 P
-! (   ""  $$ ,, .. 
-8 B $
-L R 
-
-< G
- A M
-
-/ ;
-@ B= ?
- 4 ?
-
-  / :
-  U X""7 :
-"" ##' -$$4 :
-
-''/ :
-''? A))8 :
-''] `,, 2
-)) ** ,, #--* 0..4 :
-
-11  +
-110 2338 :
-33 44 66* 0ø
+44 55 77* 0ø
 F/home/alice/Backend/Csharp/Csharp/Aplication/Services/FilialService.cs
 
 		 Z
@@ -381,7 +381,16 @@ N/home/alice/Backend/Csharp/Csharp/Aplication/Interfaces/ILocalizacaoService.cs
 
  
 
-# %Ï
+# %€
+N/home/alice/Backend/Csharp/Csharp/Aplication/DTOs/UpdateLocalizacaoPatioDto.cs
+
+ &
+
+ 
+
+ 
+
+ Ï
 I/home/alice/Backend/Csharp/Csharp/Aplication/Interfaces/IFilialService.cs
 
  #
@@ -424,24 +433,17 @@ B/home/alice/Backend/Csharp/Csharp/Aplication/DTOs/UpdateMotoDto.cs
  
 
  #€
-N/home/alice/Backend/Csharp/Csharp/Aplication/DTOs/UpdateLocalizacaoPatioDto.cs
+B/home/alice/Backend/Csharp/Csharp/Aplication/DTOs/CreateMotoDto.cs
 
- &
+ 
 
- 
+ 
 
- 
+ 
 
- v
-D/home/alice/Backend/Csharp/Csharp/Aplication/DTOs/UpdateFilialDto.cs
+ 
 
- 
-
- 
-
- 
-
- †
+ #†
 </home/alice/Backend/Csharp/Csharp/Aplication/DTOs/MotoDto.cs
 
  
@@ -454,7 +456,25 @@ D/home/alice/Backend/Csharp/Csharp/Aplication/DTOs/UpdateFilialDto.cs
 
  
 
-		 "†
+		 "v
+D/home/alice/Backend/Csharp/Csharp/Aplication/DTOs/UpdateFilialDto.cs
+
+ 
+
+ 
+
+ 
+
+ €
+N/home/alice/Backend/Csharp/Csharp/Aplication/DTOs/CreateLocalizacaoPatioDto.cs
+
+ &
+
+ 
+
+ 
+
+ †
 H/home/alice/Backend/Csharp/Csharp/Aplication/DTOs/LocalizacaoPatioDto.cs
 
   
@@ -476,27 +496,7 @@ H/home/alice/Backend/Csharp/Csharp/Aplication/DTOs/LocalizacaoPatioDto.cs
 
  
 
- €
-B/home/alice/Backend/Csharp/Csharp/Aplication/DTOs/CreateMotoDto.cs
-
- 
-
- 
-
- 
-
- 
-
- #€
-N/home/alice/Backend/Csharp/Csharp/Aplication/DTOs/CreateLocalizacaoPatioDto.cs
-
- &
-
- 
-
- 
-
- v
+ v
 D/home/alice/Backend/Csharp/Csharp/Aplication/DTOs/CreateFilialDto.cs
 
  
